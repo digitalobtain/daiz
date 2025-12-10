@@ -1,2 +1,0 @@
-# daiz
-painting website
